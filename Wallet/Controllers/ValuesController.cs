@@ -20,7 +20,7 @@ namespace Wallet.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return "Gero";
         }
 
         // POST api/values
